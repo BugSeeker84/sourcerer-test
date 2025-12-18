@@ -1,4 +1,4 @@
 # sourcerer-test
 Testing Open Sourcerer achievement.
 
-# source
+# source -test
